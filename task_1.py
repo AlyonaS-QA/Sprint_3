@@ -1,5 +1,3 @@
-import datetime
-
 class OnlineSalesRegisterCollector:
 
     def __init__(self):
